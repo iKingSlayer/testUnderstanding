@@ -1,6 +1,6 @@
 node{
   stage('SCM Checkout'){
-    git 'https://github.com/kdatta21/testUnderstanding/tree/master/myFirstappUsingMaven'
+    git 'https://github.com/iKingSlayer/testUnderstanding/tree/master/myFirstappUsingMaven'
   }
   stage('Compile-Package'){
     
